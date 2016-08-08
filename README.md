@@ -10,7 +10,7 @@ git config --global push.default matching
 mkdir ~/projects
 cd ~/projects
 git clone --recursive https://github.com/finnfiddle/dev-setup-ubuntu.git
-chmod -R 777 ~/projects/dev-setup/scripts
-cd ~/projects/dev-setup/scripts
+chmod -R 777 ~/projects/dev-setup-ubuntu/scripts
+cd ~/projects/dev-setup-ubuntu/scripts
 ./run.sh
 ```
