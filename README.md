@@ -1,6 +1,6 @@
 # Provisioning scripts for ubuntu for node development
 
-Dont clone this repo. Just run the following from terminal:
+Dont clone this repo. Just run the following from terminal after a fresh ubuntu install. This has been tested with 14.04:
 
 ```
 sudo apt-get install git -y
