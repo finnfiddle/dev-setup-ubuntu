@@ -1,5 +1,23 @@
 # Scripts for provisioning ubuntu for node development
 
+## What will be installed?
+
+- chromium
+- dropbox
+- atom
+- virtualbox
+- skype
+- flash
+- redis
+- mongodb
+- robomongo
+- node
+- multiload
+- eclipse
+- postman
+
+## Installation instructions
+
 Dont clone this repo. Just run the following from terminal after a fresh ubuntu install. This has been tested with 14.04:
 
 ```
